@@ -1,6 +1,6 @@
 python-dotenv
 pydub
-tiktoken==0.4.0
+tiktoken
 openai
 python-telegram-bot
 requests
